@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/liggitt/tabwriter"
+	"github.com/corneliusweig/tabwriter"
 )
 
 func ExampleWriter_Init() {
